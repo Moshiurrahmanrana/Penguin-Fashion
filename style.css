@@ -1,0 +1,51 @@
+.logo{
+    height: 50px;
+}
+.title{
+    padding-left: 100px;
+    
+}
+h1{
+font-family: 'Bebas Neue', cursive;
+}
+.title img{
+    width: 100%;
+}
+.lower {
+    width: 20%;
+    float: left;
+    margin-left:100px;
+    padding: 1%;
+    box-shadow: 10px 10px 60px gray;
+    border-radius: 7px;
+    height: 90%;
+    
+}
+.footer img{
+    width: 100%;
+}
+.customer img{
+    width: 25%;
+}
+.icon img{
+    width: 75%;
+    margin-left: 20%;
+}
+#headline{
+    color: rgb(116, 116, 20);
+    
+}
+.button{
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 700;
+    background-color: teal;
+    color: white;
+}
+#highlight{
+    color: rgb(2, 24, 85);
+}
+.product{
+    height: 70%;
+}
