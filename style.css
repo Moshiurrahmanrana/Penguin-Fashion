@@ -25,14 +25,15 @@ font-family: 'Bebas Neue', cursive;
     width: 100%;
 }
 .customer img{
-    width: 25%;
+    width: 20%;
 }
 .icon img{
     width: 75%;
     margin-left: 20%;
 }
 #headline{
-    color: rgb(116, 116, 20);
+    color:gold;
+    font-size: 70px;
     
 }
 .button{
@@ -45,7 +46,27 @@ font-family: 'Bebas Neue', cursive;
 }
 #highlight{
     color: rgb(2, 24, 85);
+    font-size: 70px;
 }
 .product{
     height: 70%;
+}
+.customer{
+    width: 100%;
+    margin-bottom:30px;
+    padding: 1%;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 1px;
+    height: 40%;
+}
+.money{
+    color:rgb(243, 176, 8)
+}
+.bannar{
+   
+    margin-bottom:30px;
+    padding: 3%;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 5px;
+    
 }
